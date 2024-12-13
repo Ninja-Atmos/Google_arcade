@@ -1,0 +1,53 @@
+1 Which Google Cloud data warehouse serves as a fully managed, AI-ready analytics platform designed to help you maximize the value of your data and It supports multi-engine, multi-format, and multi-cloud functionality?
+
+Select ONE answer that would be relevant
+
+*Data set
+*Cloud Compute
+*BigQuery ✅
+*Cloud Storage
+
+2 Which command in BigQuery can you use to display information about a specific resource?
+
+Select ONE answer that would be relevant
+
+*bq show ✅
+*Bq list
+*bq get
+*bq display
+
+3 Which fully managed, mission-critical database service does Google Cloud offer that integrates relational, graph, key-value, and search capabilities?
+
+Select ONE answer that would be relevant
+
+*Cloud Spanner ✅
+*Cloud Search
+*Cloud Graph
+*Cloud Database
+
+4 Which fully-managed database service does Google Cloud offer for effortlessly setting up, maintaining, managing, and administering relational PostgreSQL and MySQL databases in the cloud?
+
+Select ONE answer that would be relevant
+
+Cloud SQL ✅
+Cloud Spanner
+Kubernetes
+Cloud Compute
+
+Which Google Cloud API offers programmatic access to a robust detection engine for identifying personally identifiable information (PII) and other privacy-sensitive data within unstructured data streams?
+
+5 Select ONE answer that would be relevant
+
+*Cloud Data Loss Prevention ✅
+*Cloud Armor
+*Cloud Guard
+*Cloud Protect
+
+6 What command should you run to upload the curl response to Cloud Storage?
+
+Select ONE answer that would be relevant
+
+*gsutil send
+*gsutil respond
+*gsutil cp ✅
+*gsutil help
